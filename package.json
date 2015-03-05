@@ -1,0 +1,34 @@
+{
+  "name": "confine-key",
+  "version": "0.0.1",
+  "description": "Confine custom type to allow for keyboard shortcut input (key + ACMS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brandonhorst/confine-key"
+  },
+  "keywords": [
+    "confine",
+    "keyboard",
+    "shortcut",
+    "hotkey",
+    "keystroke"
+  ],
+  "author": "@brandonhorst",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/brandonhorst/confine-key/issues"
+  },
+  "homepage": "https://github.com/brandonhorst/confine-key",
+  "devDependencies": {
+    "chai": "^2.1.0",
+    "confine": "^3.0.3",
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "lodash": "^3.3.1"
+  }
+}
