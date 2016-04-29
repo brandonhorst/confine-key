@@ -1,6 +1,6 @@
 {
   "name": "confine-key",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Confine custom type to allow for keyboard shortcut input (key + ACMS)",
   "main": "index.js",
   "scripts": {
