@@ -24,11 +24,11 @@
   },
   "homepage": "https://github.com/brandonhorst/confine-key",
   "devDependencies": {
-    "chai": "^2.1.0",
+    "chai": "^3.5.0",
     "confine": "^3.0.3",
-    "mocha": "^2.1.0"
+    "mocha": "^2.4.5"
   },
   "dependencies": {
-    "lodash": "^3.3.1"
+    "lodash": "^4.11.1"
   }
 }
